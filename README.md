@@ -60,8 +60,9 @@ Some samples from 'Books.csv' are shown below:-
 - After Data Cleaning, the number of ratings for each book and the mean ratings for each book are calculated.
 - Books with more than 200 ratings are filtered
 - The top 100 popular books are displayed, sorted by mean ratings in descending order.
- 
-![image](https://github.com/nimmigopan/book_recommendation/assets/35449494/4ee92c0a-dd07-4f45-8dda-52f0618464b8)
+  
+ ![Top 100 books](https://github.com/nimmigopan/book_recommendation_system/assets/35449494/163aee83-359f-47da-80ae-02abd18085bb)
+
 
 # [2] Collaborative based Recommendation System
 
@@ -73,5 +74,6 @@ Some samples from 'Books.csv' are shown below:-
 - The cosine similarity is calculated  between books.
 - A list of books are recommended based on this similarity scores.
 
-![image](https://github.com/nimmigopan/book_recommendation/assets/35449494/54d7d406-f4e3-478e-92d0-a612ad792367)
+![recommended books](https://github.com/nimmigopan/book_recommendation_system/assets/35449494/a7cf5a69-7b03-4f1a-8a0e-33a15e4aa666)
+
 
