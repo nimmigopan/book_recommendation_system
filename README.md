@@ -26,8 +26,8 @@ Some common types of recommendation systems are:-
 In this project, dataset i used is "Book Recommendation Dataset" from Kaggle. "Books.csv", "Ratings.csv" files are used from dataset.
 
 Some samples from 'Books.csv' are shown below:-
+![books csv samples](https://github.com/nimmigopan/book_recommendation_system/assets/35449494/54897d4f-947b-4561-8a22-b3e0734dd61b)
 
-![books csv samples](https://github.com/nimmigopan/book_recommendation/assets/35449494/461edd41-4e56-466e-80ff-924cf7e62fcc)
 
 - ISBN (International Standard Book Number): This is a unique identifier for books. It's a standardized numeric code used to identify a specific edition of a book.
                                              Each book has a different ISBN, and it's a common way to uniquely identify books in the publishing industry.
@@ -43,8 +43,8 @@ Some samples from 'Books.csv' are shown below:-
 - Image-URL-S, Image-URL-M, Image-URL-L: These columns contain URLs (web addresses) pointing to images of the book covers. There are three URLs for each book, likely representing small, medium, and large images of the book cover. These images can be used for visual representation and display, such as in online bookstores or catalogs.
 
   Some samples from 'Ratings.csv' are shown below:-
-
-  ![Ratings csv samples](https://github.com/nimmigopan/book_recommendation/assets/35449494/e4daa6a0-18e8-462a-a239-5ff4414a9fcd)
+  
+  ![Ratings csv samples](https://github.com/nimmigopan/book_recommendation_system/assets/35449494/af915e42-33a5-4fb0-867e-54ec79813b87)
 
 - User-ID: This column contains unique user identifiers or user IDs. Each row represents a user who has provided ratings for books.
 
